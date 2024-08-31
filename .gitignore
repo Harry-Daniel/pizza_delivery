@@ -20,5 +20,3 @@ env/
 .vscode/
 .idea/
 
-# Migrations
-*/migrations/
